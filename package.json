@@ -9,12 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
-      "@mui/material": "^5.0.0", 
-      "@mui/system": "^5.0.0",
-      "next": "latest",
-      "react": "latest",
-      "react-dom": "latest"
-      
+    "@emotion/react": "^11.13.0",
+    "@mui/material": "^5.16.6",
+    "@mui/system": "^5.16.6",
+    "firebase": "^9.23.0",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
   },
   "devDependencies": {
     "eslint": "^8",
